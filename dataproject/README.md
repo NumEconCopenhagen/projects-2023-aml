@@ -1,8 +1,8 @@
 # Data analysis project
 
-Our project is titled **intrest rate effect on savings and investments** and is about EXPLAIN.
+Our project is titled **intrest rate effect on savings and investments** 
 
-The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
+the reason files that are uploaded containts the code and the analysis and the data used for the analysis
 
 We apply the **following datasets**:
 
